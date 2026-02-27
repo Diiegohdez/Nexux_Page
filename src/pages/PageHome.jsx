@@ -72,7 +72,7 @@ const PageHome = () => {
       </div>
 
       {/* ===== CONTENEDOR INFERIOR (SOLO DESKTOP) ===== */}
-      <div className="hidden lg:flex relative z-10 max-w-6xl mx-auto mt-32 bg-[#3a3456]/90 backdrop-blur-md rounded-full px-10 py-6 items-center justify-between text-white">
+      <div className="hidden lg:flex relative z-10 max-w-6xl mx-auto mt-32 bg-linear-to-r from-[#403A5F] to-[#211E2E] backdrop-blur-md rounded-full px-10 py-6 items-center justify-between text-white">
 
         <div className="flex items-center gap-4">
           <span className="text-2xl">📍</span>
