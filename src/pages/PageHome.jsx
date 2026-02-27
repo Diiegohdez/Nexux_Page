@@ -78,7 +78,7 @@ const PageHome = () => {
           <span className="text-2xl">📍</span>
           <div>
             <p className="font-semibold">Visítanos</p>
-            <p className="text-sm text-gray-300">Union St, Seattle, WA 98101, United States</p>
+            <p className="text-sm text-gray-300">Medellin, C# 98101, Colombia</p>
           </div>
         </div>
 
@@ -98,7 +98,7 @@ const PageHome = () => {
           <span className="text-2xl">✉️</span>
           <div>
             <p className="font-semibold">Envíanos un mensaje</p>
-            <p className="text-sm text-gray-300">Contact@HydraVTech.com</p>
+            <p className="text-sm text-gray-300">Contact@NexuxVTech.com</p>
           </div>
         </div>
 
